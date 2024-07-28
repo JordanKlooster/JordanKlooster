@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JordanKlooster
-- 👀 I’m interested in Math, Game Dev, progressive politics and how systems and game design can help it & democracy.
+- 👀 I’m interested in Math, and Game Dev in Godot.
 - 🌱 I’m currently learning about complex number math, writing, foraging and plant identification.
 - 💞️ I’m looking to collaborate on 
 1. A custom calendar system that might intergrate with google or other calendars? 
