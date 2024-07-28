@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JordanKlooster
 - 👀 I’m interested in Math, Game Dev, progressive politics and how systems and game design can help it & democracy.
-- 🌱 I’m currently learning wether or not I have ADHD and skills that can help with that, and about early math, writing, and foraging and plant identification.
+- 🌱 I’m currently learning about complex number math, writing, foraging and plant identification.
 - 💞️ I’m looking to collaborate on 
 1. A custom calendar system that might intergrate with google or other calendars? 
 2. A program like a combination of desmos and a vector art program. 
