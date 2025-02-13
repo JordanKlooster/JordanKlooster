@@ -1,4 +1,6 @@
+Hi I'm Jordan Kloosterman
 
+Most of my new repositories are private
 
 <!---
 JordanKlooster/JordanKlooster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
